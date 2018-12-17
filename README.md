@@ -14,7 +14,7 @@ It has boilerplate code written for auth0 and firebase auth. There is also a gen
 
 1. Click the following button for deploying to Heroku.
 
-   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hasura/sample-auth-webhook)
+   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nattymoylon/hahs)
 
 2. Once it is deployed, go to `Manage App > Settings` of your app and set the following environment variables if you want to use the associated providers.
 
