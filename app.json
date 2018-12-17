@@ -9,5 +9,6 @@
 		"auth",
 		"webhook"
 	],
-	"repository": "https://github.com/hasura/sample-auth-webhook"
+	//"repository": "https://github.com/hasura/sample-auth-webhook"
+	
 }
